@@ -9,8 +9,9 @@
 //    - anon / public key
 // =============================================
 
-window.SUPABASE_URL = 'https://YOUR_PROJECT_ID.supabase.co';
-window.SUPABASE_KEY = 'YOUR_ANON_PUBLIC_KEY';
+// ⚙️ إعدادات Supabase - مطعم النخبة
+window.SUPABASE_URL = 'sb_publishable_UKSgwgwwY2-rHOYA-Fu-Pw_YzwMCdqY';
+window.SUPABASE_KEY = 'sb_secret_bjA2eXNsNQnAA43QQjymiA_CK3qSvCx';
 
 // مثال:
 // window.SUPABASE_URL = 'https://abcdefghij.supabase.co';
